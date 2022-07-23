@@ -6,4 +6,4 @@
       <class name="testscripts.SearchByNameTest"/>
     </classes>
   </test> <!-- Test -->
-</suite> <!-- Suite -->
+</suite>
